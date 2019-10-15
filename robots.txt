@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://yuuchachei.codetopia.com/sitemap.xml
